@@ -6,3 +6,4 @@ To get started we are going to build a simple example in Vue 2. From there we wi
 
 While this is a simple example it will give us a chance to work with the composition API by actually using Vue 3.
 
+https://www.youtube.com/watch?v=UAgO2JanN9Y
